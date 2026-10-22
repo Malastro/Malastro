@@ -25,5 +25,3 @@ Especializándome en **Ingeniería de Identidades (IAM)**, arquitecturas de dire
 ---
 
 📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/guillermocuevasarroyo)
-
-https://github.com/Malastro/Lab_02-Entra_MFA
