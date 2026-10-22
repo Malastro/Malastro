@@ -9,7 +9,7 @@ Especializándome en **Ingeniería de Identidades (IAM)**, arquitecturas de dire
 | Proyecto / Dominio | Alcance Técnico & Casos de Uso | Protocolos / Tecnologías | Estado |
 | :--- | :--- | :--- | :--- |
 | **[Hybrid Identity Architecture](https://github.com/Malastro/Hybrid-identity-lab)** | Integración híbrida AD DS a Entra ID mediante Entra Connect Sync. Filtrado granular por OU, Password Hash Sync (PHS) y automatización del aprovisionamiento de UPNs. | Windows Server 2022, Entra ID, PowerShell, PHS | `Completado` |
-| **Gobernanza & Privilegios (PIM / RBAC)** | Despliegue de Privileged Identity Management (PIM) para acceso *Just-In-Time* (JIT), auditoría de roles administrativos y diseño de matrices RBAC. | Microsoft Entra ID Governance, PIM, Role-Based Access Control | `En desarrollo` |
+|🛡️ **[Entra ID: Conditional Access & MFA Enforcement](./https://github.com/Malastro/Lab_02-Entra_MFA)** | Implementación de directivas Zero Trust, mitigación de MFA Fatigue con Number Matching y diseño de cuentas Break-Glass. | MFA | `En desarrollo` |
 | **Políticas de Acceso Condicional & MFA** | Diseño de controles de acceso contextuales basados en riesgo de usuario/inicio de sesión, cumplimiento de dispositivos y bloqueo de autenticación básica. | Conditional Access, Zero Trust, FIDO2 / MFA | `Planificado` |
 | **SSO & Federación de Aplicaciones** | Integración de aplicaciones corporativas mediante SAML 2.0 y OpenID Connect (OIDC), aprovisionamiento automatizado mediante protocolo SCIM. | SAML 2.0, OIDC, SCIM, Entra Enterprise Apps | `Planificado` |
 
@@ -25,3 +25,5 @@ Especializándome en **Ingeniería de Identidades (IAM)**, arquitecturas de dire
 ---
 
 📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/guillermocuevasarroyo)
+
+https://github.com/Malastro/Lab_02-Entra_MFA
