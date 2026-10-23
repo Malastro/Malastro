@@ -4,27 +4,35 @@ Especializándome en **Ingeniería de Identidades (IAM)**, arquitecturas de dire
 
 ---
 
-### 🛡️ Gestión de identidades y accesos (IAM) | Mirador de Montepinar SL
+### # 🛡️ Gestión de identidades y accesos (IAM) | Mirador de Montepinar SL
 
-Repositorio de proyectos y laboratorios de ingeniería de identidad, seguridad híbrida y control de accesos (Active Directory On-Premises + Microsoft Entra ID). Se articula con un caso de estudio unificado: la gestión del inquilino corporativo de Mirador de Montepinar SL durante sus primeras y más conflictivas juntas de propietarios.
+Repositorio de laboratorios y proyectos prácticos de **Identity & Access Management (IAM)**, centrados en la gestión de identidades, la seguridad híbrida y el control de accesos mediante Active Directory y Microsoft Entra ID.
 
-Implementar una arquitectura Zero Trust en una organización donde nadie confía en nadie no es solo una buena práctica; es una cuestión de supervivencia operativa. El entorno aborda la mitigación de vectores de ataque reales a través del cuadro de actores de la comunidad:
+Todos los proyectos forman parte de un mismo caso de estudio: **Mirador de Montepinar SL**, una empresa donde las juntas de propietarios son un caos, las cuotas no siempre se pagan y la confianza brilla por su ausencia. El escenario perfecto para poner a prueba la seguridad de las identidades.
 
-- Presidencia paranoica y control de acceso (Antonio Recio): Enfoque de desconfianza absoluta. Se exige verificar cada intento de autenticación, restringir el acceso a Mis Aplicaciones mediante Acceso Condicional y monitorear cualquier anomalía para evitar que usurpen su cargo de presidente de la comunidad.
+En Montepinar, cada vecino tiene sus propios problemas. En el entorno corporativo, esos problemas se traducen en retos de IAM:
 
-- Gobernanza, cumplimiento y gestión de cambios (Enrique Pastor): Como Concejal de Juventud y Tiempo Libre, traslada la normativa de la Ley de Propiedad Horizontal al marco de ITIL e IAM. Se aprueban peticiones en comités de control de cambios (CAB), se auditan inicios de sesión y se formalizan directivas de ciclo de vida (JML).
+- **Antonio Recio, mayorista no limpia pescado — El presidente que no se fía ni de su sombra.** Quiere saber quién entra, a qué accede y por qué. Su obsesión por controlar hasta el último movimiento sirve como escenario para trabajar la autenticación multifactor (MFA), las políticas de Acceso Condicional y la supervisión de los accesos. Aquí nadie entra por ser amigo del presidente.
 
-- Amenaza interna por negligencia y credenciales débiles (Amador Rivas): El eslabón más vulnerable frente a ataques de ingeniería social, phishing elemental y reutilización de contraseñas inseguras tipo `merengue123`. Exige la imposición obligatoria de MFA anti-fatiga con coincidencia numérica (Number Matching).
+- **Enrique Pastor, Concejal de Juventud y Tiempo Libre — El concejal de las normas y los procedimientos.** Entre sus discursos, sus cargos y sus intentos de poner orden, siempre hay una norma que aprobar. Su papel encaja con la gobernanza de identidades, la gestión de altas, cambios y bajas (JML), las revisiones de permisos y la trazabilidad de las operaciones. Porque hasta para cambiar de despacho hace falta el procedimiento adecuado.
 
-- Shadow IT y rutas no autorizadas (Maxi “Mente Fría”): Intentos de eludir los controles perimetrales oficiales del conmutador central montando servicios paralelos sin supervisión técnica desde el Max & Henry.
+- **Amador Rivas — El eslabón más imprevisible.** Si hay una contraseña fácil de adivinar o alguien dispuesto a pinchar en un enlace sospechoso, Amador podría ser el candidato perfecto. Su personaje permite explorar los riesgos de las credenciales débiles, la ingeniería social, el phishing y la importancia de proteger las cuentas con MFA. La contraseña `merengue123` no debería sobrevivir ni a la primera junta.
 
-- Resiliencia operativa y accesos de rescate (Coque): La conserjería necesita operar tareas rutinarias de mantenimiento sin llaves maestras permanentes. Se aplica el principio de privilegio mínimo y se aíslan dos cuentas nativas de emergencia solo en la nube (Break-Glass) para evitar un bloqueo administrativo total (bloqueo de inquilino) si el servidor local colapsa.
+- **Maxi, alias «Mente Fría» — El rey de las soluciones improvisadas.** Si el camino oficial se complica, siempre puede aparecer una solución paralela montada desde el Max & Henry. Es el escenario ideal para hablar de *Shadow IT*: aplicaciones, servicios y accesos que escapan al control de la organización. Que algo funcione no significa que esté autorizado.
 
-- Intrusión y persistencia no autorizada (Izaskun y Mari Tere): Vectores de acceso oportunistas que aprovechan sesiones desatendidas y brechas en la directiva para infiltrarse en el sistema como si fuera el piso piloto del Bajo B.
+- **Coque — El conserje que necesita las llaves, pero no todas las llaves maestras.** Su trabajo exige acceso a determinadas tareas y recursos, no las llaves de todo el edificio. Representa el principio de mínimo privilegio, la separación de funciones y la necesidad de mantener cuentas de emergencia (*Break-Glass*) para situaciones excepcionales. Hasta Coque necesita límites, aunque tenga acceso al cuarto de contadores.
 
-- Resistencia al cambio y sesiones inactivas (Goya y Vicente): Usuarios finales con baja fricción tecnológica que dejan equipos encendidos en el salón frente a la tele, requiriendo límites estrictos de caducidad en tokens de sesión y revisiones periódicas de acceso.
+- **Izaskun y Mari Tere — Las que siempre encuentran la forma de enterarse de todo.** Entre cotilleos, visitas inesperadas y puertas que se quedan abiertas, representan los riesgos de las sesiones desatendidas, los accesos excesivos y las oportunidades de acceso no autorizado. En IAM, una puerta abierta no siempre es una puerta física.
 
-- La amenaza persistente latente (El Moroso del 2º C, Germán Palomares): Con el moroso en paradero desconocido y las cuotas sin pagar, la infraestructura adopta el principio fundamental de Zero Trust: Asumir la brecha (Assume Breach). Se parte de la premisa de que el perímetro ya ha sido comprometido y cada recurso debe autenticarse individualmente.
+- **Goya y Vicente — El salón, la tele y las sesiones que nunca se cierran.** Si el equipo se queda encendido mientras la vida sigue en el sofá, toca preguntarse cuánto tiempo debe mantenerse una sesión y cuándo conviene volver a verificar la identidad. Un escenario para estudiar los controles de sesión, la inactividad y las revisiones periódicas de acceso.
+
+- **El moroso del 2.º C, Germán Palomares — El vecino al que nadie consigue localizar.** Las cuotas siguen sin aparecer y nadie sabe muy bien dónde está. En el entorno de seguridad, su ausencia recuerda que no siempre podemos confiar en el perímetro ni dar por hecho que todas las identidades están a salvo. El enfoque *Assume Breach* invita a prepararse para posibles compromisos, detectar comportamientos sospechosos y limitar el impacto de un acceso indebido.
+
+## 🔧 Del caos vecinal al laboratorio técnico
+
+Cada proyecto utiliza este universo ficticio para explorar problemas reales de identidad y acceso, documentando las configuraciones realizadas, las pruebas y las posibles mejoras.
+
+El objetivo es construir un portfolio práctico de IAM que combine automatización, control de acceso, seguridad de identidades y documentación técnica. Porque en Mirador de Montepinar puede que nadie se fíe de nadie, pero al menos podemos comprobar quién tiene permiso para entrar.
 
 | **Proyecto** | **Alcance técnico y casos de uso** | **Tecnologías y conceptos** | **Estado** |
 |---|---|---|---|
