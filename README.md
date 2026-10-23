@@ -1,6 +1,6 @@
 # Hola, soy Guillermo Cuevas 👋
 
-Especializándome en **Ingeniería de Identidades (IAM)**, arquitecturas de directorio híbridas y seguridad del plano de control de identidad. Enfocado en el ciclo de vida de usuarios, modelos de acceso de mínimo privilegio (Zero Trust / RBAC) y gobernanza en ecosistemas Microsoft (Active Directory & Entra ID).
+Especializándome en **Ingeniería de Identidades (IAM)**, arquitecturas de directorio híbridas y seguridad del plano de control de identidad. Enfocado en el ciclo de vida de usuarios (JML), modelos de acceso de mínimo privilegio (Zero Trust / RBAC) y gobernanza en ecosistemas Microsoft (Active Directory & Entra ID).
 
 ---
 
