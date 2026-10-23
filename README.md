@@ -4,7 +4,7 @@ Especializándome en **Ingeniería de Identidades (IAM)**, arquitecturas de dire
 
 ---
 
-### # 🛡️ Gestión de identidades y accesos (IAM) | Mirador de Montepinar SL
+### 🛡️ Gestión de identidades y accesos (IAM) | Mirador de Montepinar SL
 
 Repositorio de laboratorios y proyectos prácticos de **Identity & Access Management (IAM)**, centrados en la gestión de identidades, la seguridad híbrida y el control de accesos mediante Active Directory y Microsoft Entra ID.
 
