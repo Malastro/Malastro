@@ -4,9 +4,27 @@ Especializándome en **Ingeniería de Identidades (IAM)**, arquitecturas de dire
 
 ---
 
-### Laboratorios y proyectos técnicos de Identity & Access Management (IAM)
+### 🛡️ Gestión de identidades y accesos (IAM) | Mirador de Montepinar SL
 
-Repositorio de laboratorios prácticos centrados en la gestión de identidades, el control de acceso y la seguridad de identidades con Microsoft Entra ID y Active Directory. Los proyectos documentan la configuración, las pruebas realizadas y las posibles mejoras, utilizando un entorno ficticio inspirado en *La que se avecina*: **Mirador de Montepinar SL**.
+Repositorio de proyectos y laboratorios de ingeniería de identidad, seguridad híbrida y control de accesos (Active Directory On-Premises + Microsoft Entra ID). Se articula con un caso de estudio unificado: la gestión del inquilino corporativo de Mirador de Montepinar SL durante sus primeras y más conflictivas juntas de propietarios.
+
+Implementar una arquitectura Zero Trust en una organización donde nadie confía en nadie no es solo una buena práctica; es una cuestión de supervivencia operativa. El entorno aborda la mitigación de vectores de ataque reales a través del cuadro de actores de la comunidad:
+
+- Presidencia paranoica y control de acceso (Antonio Recio): Enfoque de desconfianza absoluta. Se exige verificar cada intento de autenticación, restringir el acceso a Mis Aplicaciones mediante Acceso Condicional y monitorear cualquier anomalía para evitar que usurpen su cargo de Mayorista.
+
+- Gobernanza, cumplimiento y gestión de cambios (Enrique Pastor): Como Concejal de Juventud y Tiempo Libre, traslada la normativa de la Ley de Propiedad Horizontal al marco de ITIL e IAM. Se aprueban peticiones en comités de control de cambios (CAB), se auditan inicios de sesión y se formalizan directivas de ciclo de vida (JML).
+
+- Amenaza interna por negligencia y credenciales débiles (Amador Rivas): El eslabón más vulnerable frente a ataques de ingeniería social, phishing elemental y reutilización de contraseñas inseguras tipo `merengue123`. Exige la imposición obligatoria de MFA anti-fatiga con coincidencia numérica (Number Matching).
+
+- Shadow IT y rutas no autorizadas (Maxi “Mente Fría”): Intentos de eludir los controles perimetrales oficiales del conmutador central montando servicios paralelos sin supervisión técnica desde el Max & Henry.
+
+- Resiliencia operativa y accesos de rescate (Coque): La conserjería necesita operar tareas rutinarias de mantenimiento sin llaves maestras permanentes. Se aplica el principio de privilegio mínimo y se aíslan dos cuentas nativas de emergencia solo en la nube (Break-Glass) para evitar un bloqueo administrativo total (bloqueo de inquilino) si el servidor local colapsa.
+
+- Intrusión y persistencia no autorizada (Izaskun y Mari Tere): Vectores de acceso oportunistas que aprovechan sesiones desatendidas y brechas en la directiva para infiltrarse en el sistema como si fuera el piso piloto del Bajo B.
+
+- Resistencia al cambio y sesiones inactivas (Goya y Vicente): Usuarios finales con baja fricción tecnológica que dejan equipos encendidos en el salón frente a la tele, requiriendo límites estrictos de caducidad en tokens de sesión y revisiones periódicas de acceso.
+
+- La amenaza persistente latente (El Moroso del 2º C, Germán Palomares): Con el moroso en paradero desconocido y las cuotas sin pagar, la infraestructura adopta el principio fundamental de Zero Trust: Asumir la brecha (Assume Breach). Se parte de la premisa de que el perímetro ya ha sido comprometido y cada recurso debe autenticarse individualmente.
 
 | **Proyecto** | **Alcance técnico y casos de uso** | **Tecnologías y conceptos** | **Estado** |
 |---|---|---|---|
