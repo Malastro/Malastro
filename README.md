@@ -10,7 +10,7 @@ Repositorio de proyectos y laboratorios de ingeniería de identidad, seguridad h
 
 Implementar una arquitectura Zero Trust en una organización donde nadie confía en nadie no es solo una buena práctica; es una cuestión de supervivencia operativa. El entorno aborda la mitigación de vectores de ataque reales a través del cuadro de actores de la comunidad:
 
-- Presidencia paranoica y control de acceso (Antonio Recio): Enfoque de desconfianza absoluta. Se exige verificar cada intento de autenticación, restringir el acceso a Mis Aplicaciones mediante Acceso Condicional y monitorear cualquier anomalía para evitar que usurpen su cargo de Mayorista.
+- Presidencia paranoica y control de acceso (Antonio Recio): Enfoque de desconfianza absoluta. Se exige verificar cada intento de autenticación, restringir el acceso a Mis Aplicaciones mediante Acceso Condicional y monitorear cualquier anomalía para evitar que usurpen su cargo de presidente de la comunidad.
 
 - Gobernanza, cumplimiento y gestión de cambios (Enrique Pastor): Como Concejal de Juventud y Tiempo Libre, traslada la normativa de la Ley de Propiedad Horizontal al marco de ITIL e IAM. Se aprueban peticiones en comités de control de cambios (CAB), se auditan inicios de sesión y se formalizan directivas de ciclo de vida (JML).
 
