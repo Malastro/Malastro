@@ -40,7 +40,7 @@ El objetivo es construir un portfolio práctico de IAM que combine automatizaci�
 | [**02 · MFA y Acceso Condicional en Microsoft Entra ID**](https://github.com/Malastro/Lab_02-Entra_MFA) | Configuración de una política de acceso condicional que exige MFA. Preparación de cuentas de emergencia (*Break-Glass*), evaluación con What If, pruebas en modo *Report-only* y activación de la política. | Microsoft Entra ID, Conditional Access, MFA, Break-Glass, What If | `Completado` |
 | [**03 · Ciclo de vida JML**](https://github.com/Malastro/Lab_03-Lifecycle-JML) | Automatización de altas, cambios y bajas con PowerShell. | AD DS, Powershell, Entra Connect Sync, JML, RBAC | `Completado` |
 | [**04 · SSO con SAML 2.0 en Microsoft Entra ID**](https://github.com/Malastro/Lab_04-SSO-y-Aprovisionamiento-de-Aplicaciones) | Configuración de una aplicación empresarial y validación del inicio de sesión único con Microsoft Entra ID. Configuración de Entity ID, ACS, NameID y atributos de usuario; análisis de la respuesta SAML con SAML-tracer y comprobación de una sesión autenticada con Amador Rivas (`arivas`). | Microsoft Entra ID, Enterprise Applications, SAML 2.0, SSO, federación de identidades, SAML-tracer | `Implementado` |
-| **05 · Access Review & Gobernanza de Identidad (IGA)** |  |  | Planificado |
+| [**05 · Access Review & Gobernanza de Identidad (IGA)**](https://github.com/Malastro/05_Gobernanza-de-Identidad-y-Revisi-n-de-Acceso) |  |  | Planificado |
 
 **Objetivo profesional:** desarrollar experiencia práctica en IAM mediante laboratorios reproducibles, documentación técnica y validación de configuraciones de seguridad.
 
