@@ -44,9 +44,6 @@ El objetivo es construir un portfolio práctico de IAM que combine automatizaci�
 | **06 · PAM: Gestión de Accesos Privilegiados** | Diseño de un modelo de control de cuentas privilegiadas para identificar administradores, detectar asignaciones excesivas y aplicar el principio de mínimo privilegio. Simulación de solicitudes de elevación temporal de permisos, aprobación, caducidad y auditoría de las actividades administrativas mediante PowerShell y datos ficticios. | PAM, Active Directory, PowerShell, RBAC, mínimo privilegio, Just-in-Time (JIT), Just Enough Administration (JEA), auditoría de accesos | `Planificado` |
 
 
-
-**Objetivo profesional:** desarrollar experiencia práctica en IAM mediante laboratorios reproducibles, documentación técnica y validación de configuraciones de seguridad.
-
 ---
 
 📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/guillermocuevasarroyo)
