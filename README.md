@@ -15,7 +15,7 @@ Este es el escenario de mis laboratorios de **Identity & Access Management (IAM)
 - **¿Quién puede entrar?** MFA, autenticación y control de accesos.
 - **¿Quién tiene las llaves?** Active Directory, permisos y mínimo privilegio.
 - **¿Quién se ha mudado sin avisar?** Ciclo de vida de identidades (JML).
-- **¿Quién ha entrado y qué ha hecho?** Sign-in Logs y trazabilidad.
+- **¿Quién ha entrado y qué ha hecho?** Sign-in Logs y auditoría.
 
 Actualmente, mi portfolio reúne **7 laboratorios completados y documentados en GitHub**, centrados en la administración, protección y gobernanza de identidades en entornos Microsoft.
 
