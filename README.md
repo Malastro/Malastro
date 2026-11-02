@@ -4,35 +4,22 @@ Especializándome en **Ingeniería de Identidades (IAM)**, arquitecturas de dire
 
 ---
 
-### 🛡️ Gestión de identidades y accesos (IAM) | Mirador de Montepinar SL
+### 🛡️ IAM | Mirador de Montepinar SL
 
-Repositorio de laboratorios y proyectos prácticos de **Identity & Access Management (IAM)**, centrados en la gestión de identidades, la seguridad híbrida y el control de accesos mediante Active Directory y Microsoft Entra ID.
+Si Antonio Recio administrara las identidades de Montepinar, exigiría MFA hasta para bajar la basura. Exagerado, sí. Pero en IAM, verificar quién accede nunca está de más.
 
-Todos los proyectos forman parte de un mismo caso de estudio: **Mirador de Montepinar SL**, una empresa donde las juntas de propietarios son un caos, las cuotas no siempre se pagan y la confianza brilla por su ausencia. El escenario perfecto para poner a prueba la seguridad de las identidades.
+Bienvenido a **Mirador de Montepinar SL**, una organización ficticia inspirada en *La que se avecina*, donde las juntas son un caos, los vecinos no se fían unos de otros y nadie tiene muy claro quién debería tener las llaves.
 
-En Montepinar, cada vecino tiene sus propios problemas. En el entorno corporativo, esos problemas se traducen en retos de IAM:
+Este es el escenario de mis laboratorios de **Identity & Access Management (IAM)**, en los que los problemas cotidianos de la comunidad se convierten en retos reales de seguridad:
 
-- **Antonio Recio, mayorista no limpia pescado — El presidente que no se fía ni de su sombra.** Quiere saber quién entra, a qué accede y por qué. Su obsesión por controlar hasta el último movimiento sirve como escenario para trabajar la autenticación multifactor (MFA), las políticas de Acceso Condicional y la supervisión de los accesos. Aquí nadie entra por ser amigo del presidente.
+- **¿Quién puede entrar?** MFA, autenticación y control de accesos.
+- **¿Quién tiene las llaves?** Active Directory, permisos y mínimo privilegio.
+- **¿Quién se ha mudado sin avisar?** Ciclo de vida de identidades (JML).
+- **¿Quién ha entrado y qué ha hecho?** Sign-in Logs y trazabilidad.
 
-- **Enrique Pastor, Concejal de Juventud y Tiempo Libre — El concejal de las normas y los procedimientos.** Entre sus discursos, sus cargos y sus intentos de poner orden, siempre hay una norma que aprobar. Su papel encaja con la gobernanza de identidades, la gestión de altas, cambios y bajas (JML), las revisiones de permisos y la trazabilidad de las operaciones. Porque hasta para cambiar de despacho hace falta el procedimiento adecuado.
+Actualmente, mi portfolio reúne **7 laboratorios completados y documentados en GitHub**, centrados en la administración, protección y gobernanza de identidades en entornos Microsoft.
 
-- **Amador Rivas — El eslabón más imprevisible.** Si hay una contraseña fácil de adivinar o alguien dispuesto a pinchar en un enlace sospechoso, Amador podría ser el candidato perfecto. Su personaje permite explorar los riesgos de las credenciales débiles, la ingeniería social, el phishing y la importancia de proteger las cuentas con MFA. La contraseña `merengue123` no debería sobrevivir ni a la primera junta.
-
-- **Maxi, alias «Mente Fría» — El rey de las soluciones improvisadas.** Si el camino oficial se complica, siempre puede aparecer una solución paralela montada desde el Max & Henry. Es el escenario ideal para hablar de *Shadow IT*: aplicaciones, servicios y accesos que escapan al control de la organización. Que algo funcione no significa que esté autorizado.
-
-- **Coque — El conserje que necesita las llaves, pero no todas las llaves maestras.** Su trabajo exige acceso a determinadas tareas y recursos, no las llaves de todo el edificio. Representa el principio de mínimo privilegio, la separación de funciones y la necesidad de mantener cuentas de emergencia (*Break-Glass*) para situaciones excepcionales. Hasta Coque necesita límites, aunque tenga acceso al cuarto de contadores.
-
-- **Izaskun y Mari Tere — Las que siempre encuentran la forma de enterarse de todo.** Entre cotilleos, visitas inesperadas y puertas que se quedan abiertas, representan los riesgos de las sesiones desatendidas, los accesos excesivos y las oportunidades de acceso no autorizado. En IAM, una puerta abierta no siempre es una puerta física.
-
-- **Goya y Vicente — El salón, la tele y las sesiones que nunca se cierran.** Si el equipo se queda encendido mientras la vida sigue en el sofá, toca preguntarse cuánto tiempo debe mantenerse una sesión y cuándo conviene volver a verificar la identidad. Un escenario para estudiar los controles de sesión, la inactividad y las revisiones periódicas de acceso.
-
-- **El moroso del 2.º C, Germán Palomares — El vecino al que nadie consigue localizar.** Las cuotas siguen sin aparecer y nadie sabe muy bien dónde está. En el entorno de seguridad, su ausencia recuerda que no siempre podemos confiar en el perímetro ni dar por hecho que todas las identidades están a salvo. El enfoque *Assume Breach* invita a prepararse para posibles compromisos, detectar comportamientos sospechosos y limitar el impacto de un acceso indebido.
-
-## 🔧 Del caos vecinal al laboratorio técnico
-
-Cada proyecto utiliza este universo ficticio para explorar problemas reales de identidad y acceso, documentando las configuraciones realizadas, las pruebas y las posibles mejoras.
-
-El objetivo es construir un portfolio práctico de IAM que combine automatización, control de acceso, seguridad de identidades y documentación técnica. Porque en Mirador de Montepinar puede que nadie se fíe de nadie, pero al menos podemos comprobar quién tiene permiso para entrar.
+Porque en Montepinar puede que nadie se fíe de nadie, pero en IAM hay algo que no se negocia: **cada identidad debe tener los permisos que necesita, y ni uno más.**
 
 | **Proyecto** | **Alcance técnico y casos de uso** | **Tecnologías y conceptos** | **Estado** |
 |---|---|---|---|
