@@ -33,4 +33,10 @@ Porque en Montepinar puede que nadie se fíe de nadie, pero en IAM hay algo que 
 | [**10 · Microsoft Graph API y Automatización de Identidades**](https://github.com/Malastro/10_Microsoft-Graph-Automatizaci-n-de-Identidades) | Diseño e implementación de automatizaciones IAM desatendidas mediante identidades de aplicación (Service Principals). Autenticación App-Only con certificados X.509, gestión de permisos de aplicación bajo el principio de mínimo privilegio, auditoría de identidades y remediación controlada de sesiones mediante Microsoft Graph. | Microsoft Entra ID, Microsoft Graph API, PowerShell, Service Principals, App Registration, OAuth 2.0 Client Credentials, X.509, Application Permissions, RBAC | `En desarrollo` |
 ---
 
+| **Proyecto** | **Alcance técnico y casos de uso** | **Tecnologías y conceptos** | **Estado** |
+|---|---|---|---|
+| [01 · Una junta extraordinaria y unos vocales de más]() | Gestión de identidades, atributos personalizados y asignación dinámica de grupos. | Okta Universal Directory, Group Rules, System Log | `En desarrollo` |
+
+
+---
 📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/guillermocuevasarroyo)
