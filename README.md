@@ -35,7 +35,7 @@ Porque en Montepinar puede que nadie se fíe de nadie, pero en IAM hay algo que 
 
 | **Proyecto** | **Alcance técnico y casos de uso** | **Tecnologías y conceptos** | **Estado** |
 |---|---|---|---|
-| [01 · Una junta extraordinaria y unos vocales de más]() | Gestión de identidades, atributos personalizados y asignación dinámica de grupos. | Okta Universal Directory, Group Rules, System Log | `En desarrollo` |
+| [01 · Una junta extraordinaria y unos vocales de más](https://github.com/Malastro/Okta-01-Un-cuqui-presidente-) | Gestión de identidades, atributos personalizados y asignación dinámica de grupos. | Okta Universal Directory, Group Rules, System Log | `En desarrollo` |
 
 
 ---
