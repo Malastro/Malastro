@@ -11,10 +11,9 @@ Actualmente busco mi primera oportunidad profesional como IAM Analyst o IAM Cons
 | **Certificación** |	**Organismo** |
 |---|---|---|
 | Identity and Access Administrator Associate (SC-300) |	Microsoft |
-Security, Compliance, and Identity Fundamentals (SC-900)	Microsoft
-Certified in Cybersecurity (CC)	ISC2
-Cybersecurity Professional Certificate	Google
-Python Essentials 1	Cisco / OpenEDG
+| Security, Compliance, and Identity Fundamentals (SC-900) |	Microsoft |
+| Certified in Cybersecurity (CC)	| ISC2 |
+| Cybersecurity Professional Certificate	| Google |
 
 ---
 
