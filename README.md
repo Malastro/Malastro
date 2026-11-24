@@ -72,9 +72,9 @@ Implementación de un sistema de pertenencia automática a grupos mediante **Okt
 
 ### 🛡️ IAM | Mirador de Montepinar SL
 
-Si Antonio Recio administrara las identidades de Montepinar, exigiría MFA hasta para bajar la basura.
+Si *Antonio Recio* administrara las identidades de Montepinar, exigiría MFA hasta para bajar la basura.
 
-Mis laboratorios utilizan Mirador de Montepinar S. L., una organización ficticia inspirada en La que se avecina, para representar escenarios prácticos de Identity & Access Management.
+Mis laboratorios utilizan **Mirador de Montepinar S. L.**, una organización ficticia inspirada en *La que se avecina*, para representar escenarios prácticos de Identity & Access Management.
 
 A través de sus personajes recreo situaciones de gestión de identidades, autenticación, control de accesos, automatización y auditoría.
 
@@ -111,8 +111,6 @@ Porque en Montepinar las juntas pueden ser un caos, pero los permisos deben esta
 
 ## Idiomas y contacto
 
-Español (nativo) · Inglés (C1) · Francés (B2) · Alemán (B1)
+**Idiomas:** Español (nativo) · Inglés (C1) · Francés (B2) · Alemán (B1)
 
-**Interés profesional:** Identity & Access Management, administración de identidades, seguridad de accesos y automatización IAM.
-
-**Contacto:** [LinkedIn](https://www.linkedin.com/in/guillermocuevasarroyo)
+**LinkedIn:** [Guillermo Cuevas](https://www.linkedin.com/in/guillermocuevasarroyo)
