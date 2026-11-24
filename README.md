@@ -71,6 +71,16 @@ Este es el escenario de mis laboratorios de **Identity & Access Management (IAM)
 
 Porque en Montepinar puede que nadie se fíe de nadie, pero en IAM hay algo que no se negocia: **cada identidad debe tener los permisos que necesita, y ni uno más.**
 
+## Competencias técnicas 
+
+| Área |	Tecnologías y conceptos |
+| Identity Platforms |	Microsoft Entra ID, Active Directory, Okta |
+| Authentication & Federation |	MFA, Conditional Access, SAML 2.0, OAuth 2.0, OIDC |
+| Identity Lifecycle |	JML, RBAC, Universal Directory, Group Rules |
+| Privileged Access |	Entra PIM, JIT, administración delegada |
+| Automation & Troubleshooting |	PowerShell, Python, Microsoft Graph, Sign-in Logs |
+
+
 ## **Microsoft Entra ID & Active Directory**
 | **Proyecto** | **Competencias principales** | **Estado** |
 |---|---|---|---|
