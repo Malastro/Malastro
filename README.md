@@ -8,13 +8,51 @@ Desarrollo laboratorios prácticos sobre identidad híbrida, autenticación, fed
 
 Actualmente busco mi primera oportunidad profesional como IAM Analyst o IAM Consultant.
 
-| **Certificación** |	**Organismo** |
-|---|---|---|
-| Identity and Access Administrator Associate (SC-300) |	Microsoft |
-| Security, Compliance, and Identity Fundamentals (SC-900) |	Microsoft |
-| Certified in Cybersecurity (CC)	| ISC2 |
-| Cybersecurity Professional Certificate	| Google |
-| Python Essentials 1 | Cisco |
+## Certificaciones
+
+| Certificación | Organismo |
+|---|---|
+| Identity and Access Administrator Associate (SC-300) | Microsoft |
+| Security, Compliance, and Identity Fundamentals (SC-900) | Microsoft |
+| Certified in Cybersecurity (CC) | ISC2 |
+| Cybersecurity Professional Certificate | Google |
+| Python Essentials 1 | Cisco Networking Academy |
+
+## Proyectos destacados
+
+Una selección de laboratorios prácticos en los que he trabajado con tecnologías de identidad, autenticación, autorización y seguridad de accesos.
+
+### [OAuth 2.0 y OpenID Connect — Portal de autenticación con Microsoft Entra ID](https://github.com/Malastro/Lab_09-OAuth-2.0-OpenID-Connect)
+
+Desarrollo de una aplicación web con **Python, Flask y MSAL**, integrada con Microsoft Entra ID y Microsoft Graph. Implementación de autenticación OIDC, análisis de tokens y comprobación de permisos mediante respuestas HTTP 403.
+
+**Tecnologías:** Python · Flask · OAuth 2.0 · OIDC · MSAL · Microsoft Graph
+
+**Evidencias:** aplicación funcional, pruebas de autenticación y 70 tests automatizados.
+
+### [Privileged Identity Management — Acceso Just-in-Time](https://github.com/Malastro/Lab_08-Microsoft-Entra-ID-PIM-Privileged-Management-Just-in-Time-JIT-Access)
+
+Configuración de **Microsoft Entra PIM** para gestionar privilegios administrativos mediante asignaciones elegibles, activación temporal, MFA, justificación y aprobación.
+
+**Tecnologías:** Entra PIM · RBAC · JIT · MFA · Privileged Access
+
+**Evidencias:** flujo de solicitud, aprobación y activación de privilegios.
+
+### [Investigación de Sign-in Logs — Microsoft Entra ID](https://github.com/Malastro/Lab-07-Entra-ID-Sign-in-Logs)
+
+Análisis de eventos de inicio de sesión para investigar errores de autenticación y el impacto de las políticas de acceso condicional. Identificación de códigos de error y análisis de registros mediante herramientas de automatización.
+
+**Tecnologías:** Entra ID · Sign-in Logs · Conditional Access · Python · Troubleshooting
+
+**Evidencias:** investigación documentada de eventos y resultados de diagnóstico.
+
+### [Un presidente, unos privilegios y un Cuqui descontrolado — Okta](https://github.com/Malastro/Okta-01-Un-cuqui-presidente-)
+
+Implementación de un sistema de pertenencia automática a grupos mediante **Okta Universal Directory y Group Rules**, utilizando atributos personalizados para gestionar cambios de responsabilidad.
+
+**Tecnologías:** Okta · Universal Directory · Group Rules · System Log
+
+**Evidencias:** relevo automático de presidencia, detección de un conflicto de cargos y auditoría de los cambios.
 
 ---
 
