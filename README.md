@@ -1,6 +1,20 @@
-# Hola, soy Guillermo Cuevas 👋
+# Guillermo Cuevas | Identity & Access Management
 
-Especializándome en **Ingeniería de Identidades (IAM)**, arquitecturas de directorio híbridas y seguridad del plano de control de identidad. Enfocado en el ciclo de vida de usuarios (JML), modelos de acceso de mínimo privilegio (Zero Trust / RBAC) y gobernanza en ecosistemas Microsoft (Active Directory & Entra ID).
+**Microsoft SC-300 · Microsoft Entra ID · Active Directory · Okta**
+
+Profesional en transición hacia la ciberseguridad, especializado en gestión de identidades y accesos (IAM).
+
+Desarrollo laboratorios prácticos sobre identidad híbrida, autenticación, federación, gestión de accesos privilegiados, automatización y auditoría de identidades.
+
+Actualmente busco mi primera oportunidad profesional como IAM Analyst o IAM Consultant.
+
+| **Certificación** |	**Organismo** |
+|---|---|---|
+| Identity and Access Administrator Associate (SC-300) |	Microsoft |
+Security, Compliance, and Identity Fundamentals (SC-900)	Microsoft
+Certified in Cybersecurity (CC)	ISC2
+Cybersecurity Professional Certificate	Google
+Python Essentials 1	Cisco / OpenEDG
 
 ---
 
