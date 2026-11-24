@@ -6,7 +6,21 @@ Profesional en transición hacia la ciberseguridad, especializado en gestión de
 
 Desarrollo laboratorios prácticos sobre identidad híbrida, autenticación, federación, gestión de accesos privilegiados, automatización y auditoría de identidades.
 
-Actualmente busco mi primera oportunidad profesional como IAM Analyst o IAM Consultant.
+Actualmente busco mi primera oportunidad profesional como **IAM Analyst o IAM Consultant**.
+
+📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/guillermocuevasarroyo) · [Proyectos IAM](https://github.com/Malastro?tab=repositories)
+
+---
+
+## Competencias técnicas
+
+| Área | Tecnologías y conceptos |
+|---|---|
+| Plataformas de identidad | Microsoft Entra ID, Active Directory, Okta |
+| Autenticación y federación | MFA, Conditional Access, SAML 2.0, OAuth 2.0, OIDC |
+| Ciclo de vida de identidades | JML, RBAC, Universal Directory, Group Rules |
+| Accesos privilegiados | Microsoft Entra PIM, JIT, mínimo privilegio |
+| Automatización y auditoría | PowerShell, Python, Microsoft Graph, Sign-in Logs |
 
 ## Certificaciones
 
@@ -58,30 +72,17 @@ Implementación de un sistema de pertenencia automática a grupos mediante **Okt
 
 ### 🛡️ IAM | Mirador de Montepinar SL
 
-Si Antonio Recio administrara las identidades de Montepinar, exigiría MFA hasta para bajar la basura. Exagerado, sí. Pero en IAM, verificar quién accede nunca está de más.
+Si Antonio Recio administrara las identidades de Montepinar, exigiría MFA hasta para bajar la basura.
 
-Bienvenido a **Mirador de Montepinar SL**, una organización ficticia inspirada en *La que se avecina*, donde las juntas son un caos, los vecinos no se fían unos de otros y nadie tiene muy claro quién debería tener las llaves.
+Mis laboratorios utilizan Mirador de Montepinar S. L., una organización ficticia inspirada en La que se avecina, para representar escenarios prácticos de Identity & Access Management.
 
-Este es el escenario de mis laboratorios de **Identity & Access Management (IAM)**, en los que los problemas cotidianos de la comunidad se convierten en retos reales de seguridad:
+A través de sus personajes recreo situaciones de gestión de identidades, autenticación, control de accesos, automatización y auditoría.
 
-- **¿Quién puede entrar?** MFA, autenticación y control de accesos.
-- **¿Quién tiene las llaves?** Active Directory, permisos y mínimo privilegio.
-- **¿Quién se ha mudado sin avisar?** Ciclo de vida de identidades (JML).
-- **¿Quién ha entrado y qué ha hecho?** Sign-in Logs y auditoría.
+Cada proyecto parte de un problema concreto y documenta su implementación, las pruebas realizadas y las limitaciones encontradas.
 
-Porque en Montepinar puede que nadie se fíe de nadie, pero en IAM hay algo que no se negocia: **cada identidad debe tener los permisos que necesita, y ni uno más.**
+Porque en Montepinar las juntas pueden ser un caos, pero los permisos deben estar bajo control.
 
-
-## Competencias técnicas
-
-| Área | Tecnologías y conceptos |
-|---|---|
-| Plataformas de identidad | Microsoft Entra ID, Active Directory, Okta |
-| Autenticación y federación | MFA, Conditional Access, SAML 2.0, OAuth 2.0, OIDC |
-| Ciclo de vida de identidades | JML, RBAC, Universal Directory, Group Rules |
-| Accesos privilegiados | Microsoft Entra PIM, JIT, mínimo privilegio |
-| Automatización y auditoría | PowerShell, Python, Microsoft Graph, Sign-in Logs |
-
+---
 
 ## Microsoft Entra ID & Active Directory
 
@@ -100,14 +101,18 @@ Porque en Montepinar puede que nadie se fíe de nadie, pero en IAM hay algo que 
 
 ---
 
-
 ## Okta Workforce Identity
 
 | Laboratorio | Competencias principales | Estado |
 |---|---|---|
 | [01 · Un presidente, unos privilegios y un Cuqui descontrolado](https://github.com/Malastro/Okta-01-Un-cuqui-presidente-) | Universal Directory, Group Rules, System Log | Completado |
 
-
-
 ---
-📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/guillermocuevasarroyo)
+
+## Idiomas y contacto
+
+Español (nativo) · Inglés (C1) · Francés (B2) · Alemán (B1)
+
+**Interés profesional:** Identity & Access Management, administración de identidades, seguridad de accesos y automatización IAM.
+
+**Contacto:** [LinkedIn](https://www.linkedin.com/in/guillermocuevasarroyo)
