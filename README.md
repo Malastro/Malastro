@@ -32,6 +32,7 @@ Este es el escenario de mis laboratorios de **Identity & Access Management (IAM)
 
 Porque en Montepinar puede que nadie se fíe de nadie, pero en IAM hay algo que no se negocia: **cada identidad debe tener los permisos que necesita, y ni uno más.**
 
+## **Microsoft Entra ID & Active Directory**
 | **Proyecto** | **Alcance técnico y casos de uso** | **Tecnologías y conceptos** | **Estado** |
 |---|---|---|---|
 | [**01 · Arquitectura de identidad híbrida**](https://github.com/Malastro/Hybrid-identity-lab) | Integración de Active Directory Domain Services (AD DS) con Microsoft Entra ID mediante sincronización de identidades. Filtrado por unidades organizativas (OU), sincronización de hashes de contraseña y automatización del aprovisionamiento de usuarios. | Windows Server 2022, AD DS, Microsoft Entra ID, Entra Connect Sync, PowerShell, PHS | `Completado` |
@@ -46,6 +47,7 @@ Porque en Montepinar puede que nadie se fíe de nadie, pero en IAM hay algo que 
 | [**10 · Microsoft Graph API y Automatización de Identidades**](https://github.com/Malastro/10_Microsoft-Graph-Automatizaci-n-de-Identidades) | Diseño e implementación de automatizaciones IAM desatendidas mediante identidades de aplicación (Service Principals). Autenticación App-Only con certificados X.509, gestión de permisos de aplicación bajo el principio de mínimo privilegio, auditoría de identidades y remediación controlada de sesiones mediante Microsoft Graph. | Microsoft Entra ID, Microsoft Graph API, PowerShell, Service Principals, App Registration, OAuth 2.0 Client Credentials, X.509, Application Permissions, RBAC | `En desarrollo` |
 ---
 
+## **Okta Workforce Identity**
 | **Proyecto** | **Alcance técnico y casos de uso** | **Tecnologías y conceptos** | **Estado** |
 |---|---|---|---|
 | [**01 · Una junta extraordinaria y unos vocales de más**](https://github.com/Malastro/Okta-01-Un-cuqui-presidente-) | Gestión de identidades, atributos personalizados y asignación dinámica de grupos. | Okta Universal Directory, Group Rules, System Log | `Completado` |
