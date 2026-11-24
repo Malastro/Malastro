@@ -71,35 +71,42 @@ Este es el escenario de mis laboratorios de **Identity & Access Management (IAM)
 
 Porque en Montepinar puede que nadie se fíe de nadie, pero en IAM hay algo que no se negocia: **cada identidad debe tener los permisos que necesita, y ni uno más.**
 
-## Competencias técnicas 
 
-| Área |	Tecnologías y conceptos |
-| Identity Platforms |	Microsoft Entra ID, Active Directory, Okta |
-| Authentication & Federation |	MFA, Conditional Access, SAML 2.0, OAuth 2.0, OIDC |
-| Identity Lifecycle |	JML, RBAC, Universal Directory, Group Rules |
-| Privileged Access |	Entra PIM, JIT, administración delegada |
-| Automation & Troubleshooting |	PowerShell, Python, Microsoft Graph, Sign-in Logs |
+## Competencias técnicas
+
+| Área | Tecnologías y conceptos |
+|---|---|
+| Plataformas de identidad | Microsoft Entra ID, Active Directory, Okta |
+| Autenticación y federación | MFA, Conditional Access, SAML 2.0, OAuth 2.0, OIDC |
+| Ciclo de vida de identidades | JML, RBAC, Universal Directory, Group Rules |
+| Accesos privilegiados | Microsoft Entra PIM, JIT, mínimo privilegio |
+| Automatización y auditoría | PowerShell, Python, Microsoft Graph, Sign-in Logs |
 
 
-## **Microsoft Entra ID & Active Directory**
-| **Proyecto** | **Competencias principales** | **Estado** |
-|---|---|---|---|
-| [**01 · Identidad híbrida**](https://github.com/Malastro/Hybrid-identity-lab) | AD DS, Entra Connect, PHS | `Completado` |
-| [**02 · MFA y Acceso Condicional**](https://github.com/Malastro/Lab_02-Entra_MFA) | MFA, Conditional Access | `Completado` |
-| [**03 · Ciclo de vida JML**](https://github.com/Malastro/Lab_03-Lifecycle-JML) | PowerShell, JML, RBAC | `Completado` |
-| [**04 · Federación SAML**](https://github.com/Malastro/Lab_04-SSO-y-Aprovisionamiento-de-Aplicaciones) | 	SAML 2.0, SSO, Entra ID | `Completado` |
-| [**05 · Gobernanza de Identidades (IGA)**](https://github.com/Malastro/05_Gobernanza-de-Identidad-y-Revisi-n-de-Acceso) | IGA, PowerShell, Access Reviews | `Completado`|
-| [**06 · Simulación PAM**](https://github.com/Malastro/Lab-06-Privileged-Access-Management-PAM-) | JIT, JEA, PowerShell | `Completado` |
-| [**07 · Investigación de accesos**](https://github.com/Malastro/Lab-07-Entra-ID-Sign-in-Logs/tree/main) | Sign-in Logs, Troubleshooting | `Completado` |
-| [**08 · Gestión de privilegios**](https://github.com/Malastro/Lab_08-Microsoft-Entra-ID-PIM-Privileged-Management-Just-in-Time-JIT-Access) | Entra PIM, JIT, MFA | `Completado` |
-| [**09 · OAuth 2.0 y OIDC**](https://github.com/Malastro/Lab_09-OAuth-2.0-OpenID-Connect) | 	Python, Flask, MSAL, Graph | `Completado` |
-| [**10 · Automatización de Identidades**](https://github.com/Malastro/10_Microsoft-Graph-Automatizaci-n-de-Identidades) | 	Microsoft Graph, X.509 | `En desarrollo` |
+## Microsoft Entra ID & Active Directory
+
+| Laboratorio | Competencias principales | Estado |
+|---|---|---|
+| [01 · Identidad híbrida](https://github.com/Malastro/Hybrid-identity-lab) | AD DS, Entra Connect, PHS | Completado |
+| [02 · MFA y Acceso Condicional](https://github.com/Malastro/Lab_02-Entra_MFA) | MFA, Conditional Access | Completado |
+| [03 · Ciclo de vida JML](https://github.com/Malastro/Lab_03-Lifecycle-JML) | PowerShell, JML, RBAC | Completado |
+| [04 · Federación SAML](https://github.com/Malastro/Lab_04-SSO-y-Aprovisionamiento-de-Aplicaciones) | SAML 2.0, SSO, Entra ID | Completado |
+| [05 · Gobernanza de identidades](https://github.com/Malastro/05_Gobernanza-de-Identidad-y-Revisi-n-de-Acceso) | IGA, PowerShell, auditoría de accesos | Completado |
+| [06 · Simulación PAM](https://github.com/Malastro/Lab-06-Privileged-Access-Management-PAM-) | PAM, JIT, JEA, PowerShell | Completado |
+| [07 · Investigación de accesos](https://github.com/Malastro/Lab-07-Entra-ID-Sign-in-Logs) | Sign-in Logs, troubleshooting | Completado |
+| [08 · Gestión de privilegios](https://github.com/Malastro/Lab_08-Microsoft-Entra-ID-PIM-Privileged-Management-Just-in-Time-JIT-Access) | Entra PIM, JIT, MFA | Completado |
+| [09 · OAuth 2.0 y OIDC](https://github.com/Malastro/Lab_09-OAuth-2.0-OpenID-Connect) | Python, Flask, MSAL, Microsoft Graph | Completado |
+| [10 · Automatización de identidades](https://github.com/Malastro/10_Microsoft-Graph-Automatizaci-n-de-Identidades) | Microsoft Graph, X.509 | En desarrollo |
+
 ---
 
-## **Okta Workforce Identity**
-| **Proyecto** | **Alcance técnico y casos de uso** | **Tecnologías y conceptos** | **Estado** |
-|---|---|---|---|
-| [**01 · Un presidente, unos privilegios y un Cuqui descontrolado**](https://github.com/Malastro/Okta-01-Un-cuqui-presidente-) | Gestión de identidades, atributos personalizados y asignación dinámica de grupos. | Okta Universal Directory, Group Rules, System Log | `Completado` |
+
+## Okta Workforce Identity
+
+| Laboratorio | Competencias principales | Estado |
+|---|---|---|
+| [01 · Un presidente, unos privilegios y un Cuqui descontrolado](https://github.com/Malastro/Okta-01-Un-cuqui-presidente-) | Universal Directory, Group Rules, System Log | Completado |
+
 
 
 ---
