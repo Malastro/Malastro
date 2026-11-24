@@ -14,6 +14,7 @@ Actualmente busco mi primera oportunidad profesional como IAM Analyst o IAM Cons
 | Security, Compliance, and Identity Fundamentals (SC-900) |	Microsoft |
 | Certified in Cybersecurity (CC)	| ISC2 |
 | Cybersecurity Professional Certificate	| Google |
+| Python Essentials 1 | Cisco |
 
 ---
 
