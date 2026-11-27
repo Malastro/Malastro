@@ -106,8 +106,9 @@ Porque en Montepinar las juntas pueden ser un caos, pero los permisos deben esta
 | Laboratorio | Competencias principales | Estado |
 |---|---|---|
 | [01 · Un presidente, unos privilegios y un Cuqui descontrolado](https://github.com/Malastro/Okta-01-Un-cuqui-presidente-) | Universal Directory, Group Rules, System Log | Completado |
-| [02 · Un espetero con poderes ilimitados](https://github.com/Malastro/Okta-02-Un-Espetero-Con-Poderes-Limitados) | Universal Directory, Group Rules, System Log | Implementado |
-| [03 · Una tarjeta robada y dos factores ](https://github.com/Malastro/Okta-03-Una-Tarjeta-Robada-y-Dos-Factores) |  | En desarrollo |
+| [02 · Un espetero con poderes ilimitados](https://github.com/Malastro/Okta-02-Un-Espetero-Con-Poderes-Limitados) | Universal Directory, Group Rules, System Log | Completado |
+| [03 · Una tarjeta robada y dos factores ](https://github.com/Malastro/Okta-03-Una-Tarjeta-Robada-y-Dos-Factores) |  | Completado |
+| [04 · Un Cuqui, una maceta y una cuenta desactivada]() |  | En desarrollo |
 ---
 
 ## Idiomas y contacto
